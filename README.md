@@ -8,7 +8,7 @@
 
 LinkedIn: https://www.linkedin.com/in/mdenizozkahraman/
 
-Twitter: https://twitter.com/denizozkahraman
+Twitter: https://twitter.com/mdenizsec
 
 E-mail: mehmetdenizozkahraman@outlook.com
 
