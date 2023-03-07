@@ -2,7 +2,9 @@
 
 - 👀 I’m interested in Cyber Security, Network, Programming and Operating Systems.
 
-- 🌱 I’m currently learning Offensice Security Basics, Python, Java and Linux.
+- 🌱 I’m currently learning Offensice Security Basics and Network Systems for CCNA certificate.
+
+- ⚡ I'm improving myself on Java.
 
 - 📫 How to reach me: 
 
