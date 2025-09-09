@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @mdenizozkahraman from Turkey. I am a Computer Engineer.<br><br>- 👀 I’m interested in Cybersecurity, Networking, Cloud Computing, Programming and Operating Systems.<br><br>- 🌱 I’m currently learning Offensice Security Basics and Network Systems for CCNA certificate.<br><br>- ⚡ I'm improving myself on C, Java, Operating Systems and Computer Networks.<br><br>
+- 👋 Hi, I’m @mdenizozkahraman from Turkey. I am a Computer Engineer.<br><br>- 👀 I’m interested in Cybersecurity, Networking, Cloud Computing, Programming and Operating Systems.<br><br>- 🌱 I’m currently working as a Cybersecurity Analyst.<br><br>- ⚡ I'm improving myself on C, Java, Operating Systems and Computer Networks.<br><br>
 
 
 ## 🌐 Socials:
